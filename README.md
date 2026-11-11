@@ -33,6 +33,16 @@ I'm passionate about developing embedded systems, working with microcontrollers,
 - Electronics & Hardware Design
 - Communication Systems
 
+ ## 📊 GitHub Statistics
+
+![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAMSHI10062002&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI10062002&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VAMSHI10062002&theme=tokyonight)
+
 ## 📫 Find Me
 
 - GitHub: [VAMSHI10062002](https://github.com/VAMSHI10062002)
