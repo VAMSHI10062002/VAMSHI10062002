@@ -6,14 +6,17 @@ Welcome to my GitHub profile! 🚀
 
 I'm passionate about developing embedded systems, working with microcontrollers, and building hardware-software integrated projects.
 
-## 🛠️ Technologies & Skills
+## 🛠️ Technologies & Tools
 
-- **Microcontrollers:** STM32, ESP32
-- **Platforms:** Raspberry Pi
-- **Programming Languages:** C, C++, Python
-- **Communication Protocols:** UART, SPI, I2C, RS485, TCP/IP
-- **Hardware:** MCP23017, PC817, ULN2803
-- **Development Tools:** Arduino IDE, VS Code, Git, GitHub
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 My Projects
 
