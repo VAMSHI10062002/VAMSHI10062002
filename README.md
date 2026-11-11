@@ -35,9 +35,9 @@ I'm passionate about developing embedded systems, working with microcontrollers,
 
  ## 📊 GitHub Statistics
 
-![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAMSHI10062002&show_icons=true&theme=tokyonight)
+![Vamshi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=VAMSHI10062002&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHI10062002&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VAMSHI10062002&layout=compact&theme=tokyonight)
 
 ## 🔥 Contribution Activity
 
