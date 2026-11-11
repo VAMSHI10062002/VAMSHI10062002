@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Vamshi!
 
-<!--
-**VAMSHI10062002/VAMSHI10062002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Embedded Systems Developer | IoT | Electronics & Automation
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about developing embedded systems, working with microcontrollers, and building hardware-software integrated projects.
+
+## 🛠️ Technologies & Skills
+
+- **Microcontrollers:** STM32, ESP32
+- **Platforms:** Raspberry Pi
+- **Programming Languages:** C, C++, Python
+- **Communication Protocols:** UART, SPI, I2C, RS485, TCP/IP
+- **Hardware:** MCP23017, PC817, ULN2803
+- **Development Tools:** Arduino IDE, VS Code, Git, GitHub
+
+## 🚀 My Projects
+
+- 🔌 16-Channel Digital Input/Output Controller
+- 💡 ESP32 HUB75 LED Matrix Display
+- 🖥️ Raspberry Pi Automation
+- 🌐 Python TCP Client-Server Communication
+
+## 🎯 Areas of Interest
+
+- Embedded Systems
+- Industrial Automation
+- Internet of Things (IoT)
+- Electronics & Hardware Design
+- Communication Systems
+
+## 📫 Find Me
+
+- GitHub: [VAMSHI10062002](https://github.com/VAMSHI10062002)
+
+---
+
+⭐ Thanks for visiting my profile!
